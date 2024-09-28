@@ -33,5 +33,5 @@ The model is designed to be trained on labeled multi-class data. You will need t
 ### Install the required dependencies:
 
 ```bash
-pip install tensorflow keras numpy
+pip install tensorflow keras
 
